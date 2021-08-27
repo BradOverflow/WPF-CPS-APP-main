@@ -44,9 +44,9 @@ namespace AYOOO_WINDOWS_APP
         {
             
             clicks.Add(DateTime.Now);
-            List<DateTime> poop = clicks.Where(click => (DateTime.Now - click).TotalSeconds <= 2).ToList();
+            List<DateTime> timevariable = clicks.Where(click => (DateTime.Now - click).TotalSeconds <= 2).ToList();
             lbltxt.Content = "clicked: " + clicks.Count.ToString();
-            lblCPS.Content = (double) poop.Count / 2.498157;
+            lblCPS.Content = (double) timevariable.Count / 2.498157;
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
