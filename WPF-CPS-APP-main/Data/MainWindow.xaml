@@ -12,7 +12,6 @@
             <RowDefinition Height="120*"/>
         </Grid.RowDefinitions>
 
-        <Image Source="okwood.jpg" Stretch="Fill" Height="419" VerticalAlignment="Bottom" Grid.RowSpan="2"/>
         <Button Content="click me " HorizontalAlignment="Left" Margin="625,0,0,0" VerticalAlignment="Top" Width="157" Click="Button_Click" Height="224" Background="#FFB8148B" FontFamily="Impact" FontSize="36" FontWeight="Bold" FontStyle="Italic"/>
         <Label   x:Name="lbltxt"   Content="Label" HorizontalAlignment="Left" Margin="-2,16,0,0" VerticalAlignment="Top" Height="109" Width="426" FontFamily="Comic Sans MS" FontSize="72" RenderTransformOrigin="0.5,0.5">
             <Label.RenderTransform>
