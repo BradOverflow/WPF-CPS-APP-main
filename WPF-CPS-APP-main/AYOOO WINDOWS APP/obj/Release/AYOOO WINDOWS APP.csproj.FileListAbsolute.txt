@@ -1,0 +1,19 @@
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\bin\Release\AYOOO WINDOWS APP.exe.config
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\bin\Release\AYOOO WINDOWS APP.exe.manifest
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\bin\Release\AYOOO WINDOWS APP.application
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\bin\Release\AYOOO WINDOWS APP.exe
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\bin\Release\AYOOO WINDOWS APP.pdb
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.csprojAssemblyReference.cache
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\MainWindow.g.cs
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\App.g.cs
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP_MarkupCompile.cache
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP_MarkupCompile.lref
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\MainWindow.baml
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.g.resources
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO_WINDOWS_APP.Properties.Resources.resources
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.csproj.GenerateResource.cache
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.csproj.CoreCompileInputs.cache
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.exe.manifest
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.application
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.exe
+C:\Users\brady\source\repos\AYOOO WINDOWS APP\AYOOO WINDOWS APP\obj\Release\AYOOO WINDOWS APP.pdb

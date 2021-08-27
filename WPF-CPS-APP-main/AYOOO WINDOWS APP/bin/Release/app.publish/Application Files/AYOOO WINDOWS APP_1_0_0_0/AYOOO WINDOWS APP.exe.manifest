@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AYOOO WINDOWS APP.exe" version="1.0.0.0" publicKeyToken="962c011513d12e6b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AYOOO WINDOWS APP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AYOOO WINDOWS APP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AYOOO WINDOWS APP.exe" size="9696">
+      <assemblyIdentity name="AYOOO WINDOWS APP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QyCDQ3QhRrC4kPVQSpWtG7lygHlTGvqn/wrK3RSdDo4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AYOOO WINDOWS APP.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-38AMGG8\brady" issuerKeyHash="67c9f93f37cd7921bf263526009c74fdcf2ddd78" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Z/tz8d9BS1pxRLdxzmV8jxJZzvJ65vpNUujqFAzJSGo=</DigestValue></Reference></SignedInfo><SignatureValue>rPR2pZ1bmfI7fHJ32Qb7rjpDF0AOhaQWR9Cll1LXFZ66NxWmEyn3fxKV2Bl+cRkdF7rOscBTL2H+C8M39idY2OdtH78qe8d5U0BqcaC/a/fIFVST5jFaQHVA4tCRPYGi+ecnL8x6jRByQ1MpsgfW4wyxb17QWKcyDIMxjgB5sKg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vC0RxoqEUoDrRwqfu/IjJF1zYjrjqDD0qidlUX1neLt+Sm7xPR3PsGWb8w9gTvJfr4C5d8bFIHBPEH8E8bDklPpSBVKJHbTw0jKjCQ+HcH3R9ZpLhrnPwgoVgbv/ejB9Elb6+LrAS3zWWsAJjFtj2Rm1BLfP/uh40mmsFEZUgVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6a48c90c14eae8524dfae67af2ce59128f7c65ce71b744715a4b41dff173fb67" Description="" Url=""><as:assemblyIdentity name="AYOOO WINDOWS APP.exe" version="1.0.0.0" publicKeyToken="962c011513d12e6b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-38AMGG8\brady</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2GNWcVEM/qBigkWTn+CfnBpkOJrVw+nm//x+rthye54=</DigestValue></Reference></SignedInfo><SignatureValue>Hh94DR3moKmDVDPVeUWruhcp+cVrA2Ws3yriZqu886ySq9rEv6YHvjDBXekhAs5O7iIolcfEWfnnVu1YSn/DjS7wRKMnHdo134vcmcE0TIo1pPHRqAgmmV8L4NkO9Eq0SZjKFOQv6J+AXBDK/uGxsWjyZ0ZDmXlUv0mC0S0sKFc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vC0RxoqEUoDrRwqfu/IjJF1zYjrjqDD0qidlUX1neLt+Sm7xPR3PsGWb8w9gTvJfr4C5d8bFIHBPEH8E8bDklPpSBVKJHbTw0jKjCQ+HcH3R9ZpLhrnPwgoVgbv/ejB9Elb6+LrAS3zWWsAJjFtj2Rm1BLfP/uh40mmsFEZUgVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQIf0pCKbvFaVGTkySapAIDjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMAOABBAE0ARwBHADgAXABiAHIAYQBkAHkwHhcNMjEwMjA1MjM1NTMyWhcNMjIwMjA2MDU1NTMyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMAOABBAE0ARwBHADgAXABiAHIAYQBkAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALwtEcaKhFKA60cKn7vyIyRdc2I646gw9KonZVF9Z3i7fkpu8T0dz7Blm/MPYE7yX6+AuXfGxSBwTxB/BPGw5JT6UgVSiR208NIyowkPh3B90fWaS4a5z8IKFYG7/3owfRJW+vi6wEt81lrACYxbY9kZtQS3z/7oeNJprBRGVIFZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAReo3kAua/LjFA8EMLgB0NTCqgNi4jQJQcVufMeXhDfQOXgpxUIHBRe1vUUeEqsRltYcIK+8BcKZc8jHqO8UekH0jv6wkZvr3ChvSlvzo4rlb4nery6JwLssDxe3QoecKGdzZAq1aOqnjAx02GAl+8mjXTStowocDBUIyzSqX82w=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
