@@ -1,0 +1,18 @@
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\bin\Debug\AYOOO WINDOWS APP.exe.config
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\bin\Debug\AYOOO WINDOWS APP.exe.manifest
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\bin\Debug\AYOOO WINDOWS APP.application
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\bin\Debug\AYOOO WINDOWS APP.exe
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\bin\Debug\AYOOO WINDOWS APP.pdb
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\MainWindow.baml
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\MainWindow.g.cs
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\App.g.cs
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP_MarkupCompile.cache
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP_MarkupCompile.lref
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP.g.resources
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO_WINDOWS_APP.Properties.Resources.resources
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\Clicks Per Sec.csproj.GenerateResource.cache
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\Clicks Per Sec.csproj.CoreCompileInputs.cache
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP.exe.manifest
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP.application
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP.exe
+C:\Users\buddy\Desktop\WPF-CPS-APP-main\WPF-CPS-APP-main\AYOOO WINDOWS APP\obj\Debug\AYOOO WINDOWS APP.pdb
